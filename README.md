@@ -15,5 +15,4 @@ Currently building a mood journal app and learning full-stack deployment.
 - [Mood Journal App](https://github.com/branochy27/mood-journal) – Secure journaling with JWT and SQL backend
 
 ## 📫 Connect with Me
-- Email: your.email@example.com
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)<!--
+- Email: ochiengbrian7410@gmail.com
