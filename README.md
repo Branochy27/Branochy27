@@ -2,8 +2,9 @@
 
 # 👋 Hi, I'm Brian (aka branochy27)
 
-I'm a  Medical social worler.  
-I am a full stack developer ,MERN.
+I am a software developer with  a focus on MERN stack development and building clean ,responsove functional applications.
+
+
 
 
 ## 🔧 Tech Stack
@@ -12,10 +13,14 @@ Express.js
 React.js
 Node.js
 HTML,CSS,JS
+Git,GitHub,
+Python 
+
 
 ## 🚀 Projects
 - [Mood Journal App](https://github.com/branochy27/mood-journal) – Secure journaling with JWT and SQL backend
 - AI SHAMBA GUIDE -
+- UZIMA PAL - 
 
 ## 📫 Connect with Me
 - Email: ochiengbrian7410@gmail.com
