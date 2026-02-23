@@ -18,6 +18,7 @@ Python
 
 
 ## 🚀 Projects
+- https://magodo-complex-centre.vercel.app/ - A school website built on MERN 
 - [Mood Journal App](https://github.com/branochy27/mood-journal) – Secure journaling with JWT and SQL backend
 - AI SHAMBA GUIDE -
 - UZIMA PAL - 
